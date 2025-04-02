@@ -1,0 +1,10 @@
+CloudStock Analytics
+
+BigQuery Link-
+https://console.cloud.google.com/bigquery?invt=AbtpZw&project=housingproj&ws=!1m14!1m3!3m2!1shousingproj!2sHousing!1m4!4m3!1shousingproj!2sHousing!3shousing_data!1m4!1m3!1shousingproj!2sbquxjob_7f287176_195f4c6992a!3sUS
+
+Google Data Studio-
+https://lookerstudio.google.com/datasources/a0e91010-3367-4118-a53d-5884fa6b2bd6
+
+Looker Studio-https://lookerstudio.google.com/reporting/03b0aaa9-c5f1-4089-96de-cb217308a1f0/page/AzYFF/edit
+
